@@ -96,4 +96,63 @@
 “天安门自焚”事件调查委员会
 
 2003年5月2日
+<h1 align="center"><b>◎天安门警察背着灭火器巡逻？</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><IMG SRC="img/2003-8-19-zifen_spot.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">澳洲《时代报》（The Age）2004年10月16日的报道对央视的自焚录像做出强烈质疑：“警方事先不知情，却在90秒内，携带大量消防设备出现在画面中。”</td>
+</tr>
+</tbody>
+</table>
 
+<h1 align="center"><b>◎衣服烧烂，头发却耐火？</b></h1>
+
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><IMG SRC="img/2013-6-5-zifen-2.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">警察晃着灭火毯等镜头，棉衣裤子烧烂，头发还完好，火烧后盛着汽油的塑料瓶完好翠绿。央视女记者承认自焚“摆拍”。</td>
+</tr>
+</tbody>
+</table>
+
+<h1 align="center"><b>◎谁是画面外的摄影师？</b></h1>
+
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><IMG SRC="img/1310292039482120.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">图中的男子在军警间从容拍摄。国际社会质疑：央视自焚录像有远景、移动拍摄的近景，还有多个自焚者在不同位置的特写，并且录下了声音，显然摄影师做好了准备才能做到的专业拍摄。</td>
+</tr>
+</tbody>
+</table>
+
+<h1 align="center"><b>◎自焚的王进东是法轮功学员吗？</b></h1>
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><IMG SRC="img/zifen-en.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">自称“老学员”的王进东竟然不会双盘腿。</td>
+</tr>
+</tbody>
+</table>
+
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><IMG SRC="img/jieyin-3.jpg" width=880></td>
+</tr>
+<tr>
+<td align="center">王进东的大拇指不是法轮功的正确动作——指尖轻轻接触，而是错误的上下重叠。</td>
+</tr>
+</tbody>
+</table>
