@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>明慧专题：“天安门自焚”真相</b></h1>
-<a href="http://118.161.48.86/classic/"><img src="img/zf-1.jpg" width=880></a><br>
+<a href="http://118.161.48.86/classic/"><img src="img/zf-1.jpg" width=880></a><p>
 2001年1月23日（除夕）下午，天安门广场“突发”5 人自焚事件。 事发仅 2 小时，新华社以超乎寻常的速度向全世界发出英语新闻，声称“自焚者是五名法轮功学员”。但是，美国之音记者打电话向北京公安局和公安部查证，答复竟然是不知道有这回事。喉舌的宣传口径竟然抢到了公安调查的前面！<p>
 
 如此迫不及待，已经暴露了这并非突发事件，而是一场准备充分的阴谋——假如真是突发事件，是根本来不及准备的。
@@ -15,7 +15,7 @@
 <b>自焚伪案疑点：</b><br>
 <b>女主角被当场灭口？</b><p>
 <a href="https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true"><img src="img/zifengif-lcl.gif" width=880></a>
-<h1 align="center"><b>录像：追查国际“天安门自焚疑案”调查纪实</b></h1>
+<h1 align="center"><b><a href="https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true">录像：追查国际“天安门自焚疑案”调查纪实</a></b></h1>
 
 “追查迫害法轮功国际组织”成立于二零零三年一月，是以追查取证和国际起诉迫害法轮功相关人员为重点的独立常设国际机构。本组织的使命是：追查迫害法轮功的一切罪行以及相关的机构、组织和个人。无论天涯海角，无论时日长短，必将追查到底；行天理，再现公道，匡扶人间正义。
 
