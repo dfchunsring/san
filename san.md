@@ -6,20 +6,18 @@
 
 + <a href='https://github.com/mbzxdj/san/blob/master/download/zfzxPalV32.mp4?raw=true'>是自焚还是骗局 13:57</a>
 
-+ <a href='https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true'>录像：追查国际“天安门自焚疑案”调查纪实08:55</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true'>录像：追查国际“天安门自焚疑案”调查纪实 08:55</a>
 
-+ <a href='https://github.com/mbzxdj/san/blob/master/download/zf_mp3.mp4?raw=true'>明慧网广播电台 天安门自焚是中共栽赃陷害法轮功的骗局(mp4)03:32</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/zf_mp3.mp4?raw=true'>明慧网广播电台 天安门自焚是中共栽赃陷害法轮功的骗局(mp4) 03:32</a>
 
-+ <a href='https://github.com/mbzxdj/san/blob/master/download/zf.zip?raw=true'>明慧网广播电台 天安门自焚是中共栽赃陷害法轮功的骗局(mp3)03:32</a>
-
-+ <a href='https://github.com/mbzxdj/san/blob/master/download/20170123_000925-video.mp4?raw=true'>武警与医生 揭16年前“天安门自焚”造假03:56</a>
-
-+ <a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true">“天安门自焚”追查报告10:27</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/zf.zip?raw=true'>明慧网广播电台 天安门自焚是中共栽赃陷害法轮功的骗局(mp3) 03:32</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/20170123_000925-video.mp4?raw=true'>武警与医生 揭16年前“天安门自焚”造假 03:56</a>
++ <a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true">“天安门自焚”追查报告  10:27</a>
 
 <h1 align="center"><b>明慧专题：<a href="https://github.com/mbzxdj/san/blob/master/download/zfzxPalV32.mp4?raw=true">“天安门自焚”真相</a></b></h1>
 
 <a href="http://118.161.48.86/classic/"><img src="img/zf-1.jpg" width=880></a><p>
-  
+ 
 2001年1月23日（除夕）下午，天安门广场“突发”5 人自焚事件。 事发仅 2 小时，新华社以超乎寻常的速度向全世界发出英语新闻，声称“自焚者是五名法轮功学员”。但是，美国之音记者打电话向北京公安局和公安部查证，答复竟然是不知道有这回事。喉舌的宣传口径竟然抢到了公安调查的前面！<p>
 
 如此迫不及待，已经暴露了这并非突发事件，而是一场准备充分的阴谋——假如真是突发事件，是根本来不及准备的。
