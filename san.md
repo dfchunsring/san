@@ -704,7 +704,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><IMG SRC="img/1-356-600x400.jpg" width=880></td>
+<td align="center"><a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true"><IMG SRC="img/1-356-600x400.jpg" width=880></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true">“追查迫害法轮功国际组织 ”近期发布“天安门自焚”追查报告。图为追查国际图标。（追查国际）</a></td>
