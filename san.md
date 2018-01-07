@@ -1,15 +1,10 @@
 <a href="http://118.161.48.86"><img src="img/red-979573-1-600x400-0106-1.jpg" width=880></a><p>
 
 + <a href='https://github.com/mbzxdj/san/blob/master/download/immolation_56k.mp4?raw=true'>焦点访谈录像 25:54</a>
-
 + <a href='https://github.com/mbzxdj/san/blob/master/download/si_chn_08152002_56k.mp4?raw=true'>录像片：是自焚还是骗局？（2002年8月15日新版）28:59</a>
-
 + <a href='https://github.com/mbzxdj/san/blob/master/download/zfzxPalV32.mp4?raw=true'>是自焚还是骗局 13:57</a>
-
 + <a href='https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true'>录像：追查国际“天安门自焚疑案”调查纪实 08:55</a>
-
 + <a href='https://github.com/mbzxdj/san/blob/master/download/zf_mp3.mp4?raw=true'>明慧网广播电台 天安门自焚是中共栽赃陷害法轮功的骗局(mp4) 03:32</a>
-
 + <a href='https://github.com/mbzxdj/san/blob/master/download/zf.zip?raw=true'>明慧网广播电台 天安门自焚是中共栽赃陷害法轮功的骗局(mp3) 03:32</a>
 + <a href='https://github.com/mbzxdj/san/blob/master/download/20170123_000925-video.mp4?raw=true'>武警与医生 揭16年前“天安门自焚”造假 03:56</a>
 + <a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true">“天安门自焚”追查报告  10:27</a>
