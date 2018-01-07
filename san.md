@@ -1024,7 +1024,7 @@ A：别忘了，看热闹是中国人的通病。哪儿出事人们都会围着�
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><IMG SRC="img/2013-7-16-t3_uncompromised_courage.jpg"></td>
+<td align="center"><IMG SRC="img/2013-7-16-t3_uncompromised_courage.jpg" width=600></td>
 </tr>
 <tr>
 <td align="center">真善忍美展画作:“刘成军坚忍不屈的精神</td>
