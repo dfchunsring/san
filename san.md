@@ -14,7 +14,7 @@
 
 <b>自焚伪案疑点：</b><br>
 <b>女主角被当场灭口？</b><p>
-<a href="https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true"><img src="img/zifengif-lcl.gif" width=880></a>
+<a href="https://github.com/mbzxdj/san/blob/master/download/immolation_56k.mp4?raw=true"><img src="img/zifengif-lcl.gif" width=880></a>
 <h1 align="center"><b><a href="https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true">录像：追查国际“天安门自焚疑案”调查纪实</a></b></h1>
 
 “追查迫害法轮功国际组织”成立于二零零三年一月，是以追查取证和国际起诉迫害法轮功相关人员为重点的独立常设国际机构。本组织的使命是：追查迫害法轮功的一切罪行以及相关的机构、组织和个人。无论天涯海角，无论时日长短，必将追查到底；行天理，再现公道，匡扶人间正义。
