@@ -792,7 +792,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><IMG SRC="img/2011-1-21-zifen-truth-03.jpg" width=880></td>
+<td align="center"><IMG SRC="img/2011-1-21-zifen-truth-03.jpg" width=600></td>
 </tr>
 <tr>
 <td align="center">2001年1月23日，正是中國農曆的大年三十，江澤民、羅干等人導演「天安門自焚」事件。不久，一本十年前出版的暢銷小說《黃禍》在中國遭到查禁，小說第二章中有一個情節是有人買通絕症患者「自焚」，以達到栽贓他人併進行政治迫害的目的。此次天安門「自焚」與《黃禍》的這個情節驚人相似。很顯然，小說被查禁顯示其中存在某種不可告人的陰謀。揭露「天安門自焚」真相的影片《偽火》獲得第51屆哥倫布國際電影電視節榮譽獎，該紀錄片揭開了「自焚案」部分漏洞。（大紀元資料圖片）</td>
