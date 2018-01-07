@@ -603,7 +603,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><IMG SRC="img/2010-9-12-leiming.jpg" width=880></td>
+<td align="center"><IMG SRC="img/2010-9-12-leiming.jpg" width=600></td>
 </tr>
 <tr>
 <td align="center"><IMG SRC="img/2006-9-1-leiming14.jpg" width=880></td>
@@ -1037,7 +1037,7 @@ A：别忘了，看热闹是中国人的通病。哪儿出事人们都会围着�
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
 <tr>
-<td align="center"><IMG SRC="img/2006-4-7-gaorongrong-6.jpg" width=880></td>
+<td align="center"><IMG SRC="img/2006-4-7-gaorongrong-6.jpg" width=6000></td>
 </tr>
 <tr>
 <td align="center"><IMG SRC="img/2004-7-6-gao_rongrong2.jpg" width=880></td>
