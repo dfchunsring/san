@@ -1,5 +1,12 @@
 <a href="http://118.161.48.86"><img src="img/red-979573-1-600x400-0106-1.jpg" width=880></a><p>
-  
+
++ <a href='https://github.com/mbzxdj/san/blob/master/download/immolation_56k.mp4?raw=true'>焦点访谈录像 25:54</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/si_chn_08152002_56k.mp4raw=true'>录像片：是自焚还是骗局？（2002年8月15日新版）28:59</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/zfzxPalV32.mp4?raw=true'>是自焚还是骗局 13:57</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true'>录像：追查国际“天安门自焚疑案”调查纪实08:55</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/zf_mp3.mp4?raw=true'>明慧网广播电台 天安门自焚是中共栽赃陷害法轮功的骗局03:32</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/20170123_000925-video.mp4?raw=true'>武警与医生 揭16年前“天安门自焚”造假03:56</a>
+
 <h1 align="center"><b>明慧专题：<a href="https://github.com/mbzxdj/san/blob/master/download/zfzxPalV32.mp4?raw=true">“天安门自焚”真相</a></b></h1>
 
 <a href="http://118.161.48.86/classic/"><img src="img/zf-1.jpg" width=880></a><p>
@@ -16,7 +23,7 @@
 
 <b>自焚伪案疑点：</b><br>
 <b>女主角被当场灭口？</b><p>
-<a href="https://github.com/mbzxdj/san/blob/master/download/zf_mp3.mp4?raw=true=true"><img src="img/zifengif-lcl.gif" width=880></a>
+<a href="https://github.com/mbzxdj/san/blob/master/download/immolation_56k.mp4?raw=true=true"><img src="img/zifengif-lcl.gif" width=880></a>
 <h1 align="center"><b><a href="https://github.com/mbzxdj/san/blob/master/download/jxgs.mp4?raw=true">录像：追查国际“天安门自焚疑案”调查纪实</a></b></h1>
 
 “追查迫害法轮功国际组织”成立于二零零三年一月，是以追查取证和国际起诉迫害法轮功相关人员为重点的独立常设国际机构。本组织的使命是：追查迫害法轮功的一切罪行以及相关的机构、组织和个人。无论天涯海角，无论时日长短，必将追查到底；行天理，再现公道，匡扶人间正义。
