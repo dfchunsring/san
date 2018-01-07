@@ -1297,7 +1297,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
 
 Get Flash to see this player.
 
-引自明慧网：<a href="https://github.com/mbzxdj/san/blob/master/download/si_chn_08152002_56k.zip?raw=true">录像片：是自焚还是骗局？</a>
+引自明慧网：<a href="https://github.com/mbzxdj/san/blob/master/download/si_chn_08152002_56k.mp4?raw=true">录像片：是自焚还是骗局？</a>
 
 十年来，中国大陆法轮功学员不畏艰险、冒着被抓捕关押的危险，把“自焚真相”影像、文字资料传播给民众，人们在见到炼法轮功的亲戚朋友时，更要问个究竟，多少人自叹：“又被共产党骗了！几十年来它哪次说过真话？！”“天安门自焚”这个世纪伪案反而成为了民众了解中共造假手段的有力工具。
 
