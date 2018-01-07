@@ -699,7 +699,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
 （全文完）
 <hr>
 <b>更多文章</b><p>
-<h1 align="center"><b>追查报告举证中共 “天安门自焚” 伪案</b></h1>
+<h1 align="center"><b><a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true">追查报告举证中共 “天安门自焚” 伪案</a></b></h1>
 
 <table border="0" cellspacing="3" cellpadding="3">
 <tbody>
@@ -707,7 +707,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
 <td align="center"><IMG SRC="img/1-356-600x400.jpg" width=880></td>
 </tr>
 <tr>
-<td align="center">“追查迫害法轮功国际组织 ”近期发布“天安门自焚”追查报告。图为追查国际图标。（追查国际）</td>
+<td align="center"><a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true">“追查迫害法轮功国际组织 ”近期发布“天安门自焚”追查报告。图为追查国际图标。（追查国际）</a></td>
 </tr>
 </tbody>
 </table>
@@ -720,7 +720,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
   
 2003年3月12日，追查国际委托台湾大学中国语语音实验室，对3集中共中央电视台的《焦点访谈》节目中连续出现的人物——王进东做语音检验鉴定。发现，在天安门广场喊话的自焚主要成员“王进东”的声音，与最后在劳教所接受记者采访的“王进东”的声音，不是同一个人。也就是说王进东至少是由两个人扮演的。
 
-<a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true"><IMG SRC="img/zf_gx_bg.jpg.jpg" width=880></a><br>
+<a href="https://github.com/mbzxdj/san/blob/master/download/tambg2.mp4?raw=true"><IMG SRC="img/zf_gx_bg.jpg" width=880></a><br>
 
 根据这一证据推断，这次事件导演的思路可能是，开始出场的人形象是正常的，最后接受记者采访的人是外貌有烧伤后遗症的。
 
