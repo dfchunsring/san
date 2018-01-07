@@ -2,7 +2,7 @@
 
 + <a href='https://github.com/mbzxdj/san/blob/master/download/immolation_56k.mp4?raw=true'>焦点访谈录像 25:54</a>
 
-+ <a href='https://github.com/mbzxdj/san/blob/master/download/si_chn_08152002_56k.mp4raw=true'>录像片：是自焚还是骗局？（2002年8月15日新版）28:59</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/si_chn_08152002_56k.mp4?raw=true'>录像片：是自焚还是骗局？（2002年8月15日新版）28:59</a>
 
 + <a href='https://github.com/mbzxdj/san/blob/master/download/zfzxPalV32.mp4?raw=true'>是自焚还是骗局 13:57</a>
 
