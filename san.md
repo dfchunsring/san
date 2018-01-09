@@ -1,4 +1,4 @@
-<a href="http://118.161.48.86"><img src="img/red-979573-1-600x400-0106-1.jpg" width=880></a><p>
+<a href="http://114.43.33.190"><img src="img/red-979573-1-600x400-0109-1.jpg" width=880></a><p>
 
 + <a href='https://github.com/mbzxdj/san/blob/master/download/immolation_56k.mp4?raw=true'>焦点访谈录像 25:54</a>
 + <a href='https://github.com/mbzxdj/san/blob/master/download/si_chn_08152002_56k.mp4?raw=true'>录像片：是自焚还是骗局？（2002年8月15日新版）28:59</a>
