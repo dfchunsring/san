@@ -38,10 +38,11 @@
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版</a>
     - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true'>新唐人安卓版2.1.12sp1 下载(大陆有程序被自动删除或隐藏的安卓产品)</a>
     - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TV.apk?raw=true'>新唐人安卓版2.1.12 下载(海外产的安卓产品，及大陆不存在程序被自动删除的安卓产品)</a> 
-    
+
+<hr>
 <h1 align="center"><b>明慧专题：<a href="https://github.com/mbzxdj/san/blob/master/download/zfzxPalV32.mp4?raw=true">“天安门自焚”真相</a></b></h1>
 
-<a href="http://118.161.48.86/classic/"><img src="img/zf-1.jpg" width=880></a><p>
+<a href="http://114.43.33.190/classic/"><img src="img/zf-1.jpg" width=880></a><p>
  
 2001年1月23日（除夕）下午，天安门广场“突发”5 人自焚事件。 事发仅 2 小时，新华社以超乎寻常的速度向全世界发出英语新闻，声称“自焚者是五名法轮功学员”。但是，美国之音记者打电话向北京公安局和公安部查证，答复竟然是不知道有这回事。喉舌的宣传口径竟然抢到了公安调查的前面！<p>
 
