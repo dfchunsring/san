@@ -42,7 +42,7 @@
 <hr>
 <h1 align="center"><b>明慧专题：<a href="https://github.com/mbzxdj/san/blob/master/download/zfzxPalV32.mp4?raw=true">“天安门自焚”真相</a></b></h1>
 
-<a href="http://114.43.33.190/classic/"><img src="img/zf-1.jpg" width=880></a><p>
+<a href="http://114.37.27.190/classic/"><img src="img/zf-1.jpg" width=880></a><p>
  
 2001年1月23日（除夕）下午，天安门广场“突发”5 人自焚事件。 事发仅 2 小时，新华社以超乎寻常的速度向全世界发出英语新闻，声称“自焚者是五名法轮功学员”。但是，美国之音记者打电话向北京公安局和公安部查证，答复竟然是不知道有这回事。喉舌的宣传口径竟然抢到了公安调查的前面！<p>
 
