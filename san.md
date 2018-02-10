@@ -17,13 +17,13 @@
 共产主义来自何处？为什么宇宙中会冒出个共产党？共产主义的本质究竟是什么？结局又会怎样？对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。</b></td>
 </TR>
 <TR>
-<TD>下载全书：<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
+<TD align="center">下载全书：<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
 </TR>
 <TR>
-<TD>下载：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)，<<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">新唐人电视台视频播报版 epub 下载</a>/TD>
+<TD align="center">下载：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)，<<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">新唐人电视台视频播报版 epub 下载</a>/TD>
 </TR>
 <TR>
-<TD><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍</b></a></TD>	
+<TD align="center"><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍</b></a></TD>	
 </TR>
 </div>
 </TABLE>
