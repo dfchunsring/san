@@ -29,8 +29,6 @@
 </TABLE>
 
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880">
- 
-<a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width="880">
 
 <hr>
 
