@@ -1,4 +1,4 @@
-<img src="img/lian-0216.jpg" width=880></a><p>
+<img src="img/lian-0218.jpg" width=880></a><p>
 
 + <a href='https://github.com/mbzxdj/san/blob/master/download/OwQA4tZUShUeb.mp4?raw=true'>中国人，你被骗了吗？除夕夜的天安门自焚是骗局！</a>
 + <a href='https://github.com/mbzxdj/san/blob/master/download/immolation_56k.mp4?raw=true'>焦点访谈录像 25:54</a>
