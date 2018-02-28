@@ -542,7 +542,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
 <td align="center"><IMG SRC="img/2004-11-13-liuchengjun-family.jpg" width=880></td>
 </tr>
 <tr>
-<td align="center"图2：刘成军的全家福，右1为刘成军，中间是大姐刘琳</td>
+<td align="center">图2：刘成军的全家福，右1为刘成军，中间是大姐刘琳</td>
 </tr>
 </tbody>
 </table>
