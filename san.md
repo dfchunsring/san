@@ -23,7 +23,7 @@
 <TD align="center">下载全书：<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/pkey5/dj/blob/master/download/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/pkey5/dj/blob/master/download/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
 </TR>
 <TR>
-<TD align="center">下载：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)，<<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">新唐人电视台视频播报版 epub 下载</a>/TD>
+<TD align="center">下载：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)，<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">新唐人电视台视频播报版 epub 下载</a></TD>
 </TR>
 <TR>
 <TD align="center"><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍</b></a></TD>	
@@ -647,7 +647,7 @@ http://www.minghui.org/mh/articles/2004/2/17/67484.html
 
 铁椅上酷刑4天4夜，雷明被扔进了铁北看守所。看守所一见满身是伤，马上拒收，警察说这是特案，才同意接收。到了监号，犯人们都惊呆了，雷明满身是电击的焦糊斑，烫伤、电伤、勒伤，惨不忍睹。牢头说：“以前我不信法轮功被迫害的这么严重，今天我彻底信了，这共产党要完了。”
 
-<b>>抓刘成军　放火加枪击</b><p
+<b>抓刘成军　放火加枪击</b><p>
 
 3月23日晚，20余辆警车包围了前郭县山后屯，一群恶警象土匪一样闯入刘成军的姨父柳长发家。让柳家做饭，还把刘成军的表弟带到派出所毒打了一个多小时，威胁要把他84岁的姥姥抓来，这样逼着问出了刘成军的下落。
 
