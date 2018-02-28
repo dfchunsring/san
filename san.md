@@ -1,5 +1,8 @@
 <img src="img/lian-0226.jpg" width=880></a><p>
-
+ 
++ <a href='https://github.com/mbzxdj/san/blob/master/download/ccs05.mp4?raw=true'>视频：《上苍为何落泪》纪念长春305插播壮举</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/CQSD-1s.mp4?raw=true'>【传奇时代】永恒的电波（上)</a>
++ <a href='https://github.com/mbzxdj/san/blob/master/download/CQSD-2s.mp4?raw=true'>【传奇时代】永恒的电波（下)</a>
 + <a href='https://github.com/mbzxdj/san/blob/master/download/OwQA4tZUShUeb.mp4?raw=true'>中国人，你被骗了吗？除夕夜的天安门自焚是骗局！</a>
 + <a href='https://github.com/mbzxdj/san/blob/master/download/immolation_56k.mp4?raw=true'>焦点访谈录像 25:54</a>
 + <a href='https://github.com/mbzxdj/san/blob/master/download/si_chn_08152002_56k.mp4?raw=true'>录像片：是自焚还是骗局？（2002年8月15日新版）28:59</a>
