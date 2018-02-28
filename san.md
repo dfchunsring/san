@@ -535,7 +535,7 @@ AFP：China Forbids Families of Burned Falun Gong Members From Seeing Them<p>
 
 <b>副帅的传奇</b><p>
  
-<img src="2004-11-13-liuchengjun-family.jpg" width=880>
+<img src="img/2004-11-13-liuchengjun-family.jpg" width=880>
  
 至此，故事的重心落到了接替了主帅的刘成军的身上，他的故事精彩非常，我们还得从头讲起。
 
