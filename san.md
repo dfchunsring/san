@@ -1,4 +1,4 @@
-<img src="img/lian-0420.jpg" width=880></a><p>
+<img src="img/lian-0424.jpg" width=880></a><p>
  
 + <a href='https://github.com/mbzxdj/san/blob/master/download/ccs05.mp4?raw=true'>视频：《上苍为何落泪》纪念长春305插播壮举</a>
 + <a href='https://github.com/mbzxdj/san/blob/master/download/CQSD-1s.mp4?raw=true'>【传奇时代】永恒的电波（上)</a>
